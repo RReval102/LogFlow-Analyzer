@@ -1,0 +1,11 @@
+2023-10-26 10:00:00 - INFO - Application started successfully.
+2023-10-26 10:01:15 - INFO - User 'admin' logged in.
+2023-10-26 10:02:30 - DEBUG - Checking database connection pool.
+2023-10-26 10:03:00 - WARNING - API response time is high: 1500ms.
+2023-10-26 10:03:45 - INFO - Processing request /api/data.
+2023-10-26 10:04:05 - ERROR - Database connection failed: Timeout expired.
+2023-10-26 10:05:10 - INFO - User 'guest' accessed public page.
+2023-10-26 10:05:30 - ERROR - Cannot process payment: Card declined.
+2023-10-26 10:06:00 - ERROR - Database connection failed: Timeout expired.
+2023-10-26 11:01:00 - INFO - Starting scheduled task: Cleanup.
+2023-10-26 11:02:15 - ERROR - Database connection failed: Timeout expired.

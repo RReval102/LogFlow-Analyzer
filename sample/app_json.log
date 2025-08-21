@@ -1,0 +1,7 @@
+{"timestamp": "2023-10-27T14:30:00", "level": "INFO", "message": "Server initialized."}
+{"timestamp": "2023-10-27T14:31:05", "level": "INFO", "message": "Request received for /users/123", "user_id": 123}
+{"timestamp": "2023-10-27T14:31:10", "level": "DEBUG", "message": "Executing query: SELECT * FROM users"}
+{"timestamp": "2023-10-27T14:32:00", "level": "ERROR", "message": "NullPointerException at com.example.UserService:52", "trace_id": "xyz-123"}
+{"timestamp": "2023-10-27T14:33:15", "level": "WARNING", "message": "Disk space is running low: 90% used."}
+{"timestamp": "2023-10-27T14:34:00", "level": "ERROR", "message": "NullPointerException at com.example.UserService:52", "trace_id": "xyz-456"}
+{"timestamp": "2023-10-27T15:05:00", "level": "INFO", "message": "Cache cleared."}
